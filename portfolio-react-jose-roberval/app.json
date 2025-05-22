@@ -5,10 +5,10 @@
     "slug": "pwm-gq-2-individual",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/perfil.jpg",
+    "icon": "./assets/perfil.png",
     "userInterfaceStyle": "dark",
     "splash": {
-      "image": "./assets/perfil.jpg",
+      "image": "./assets/perfil.png",
       "resizeMode": "contain",
       "backgroundColor": "#1e1e2f"
     },
@@ -24,12 +24,12 @@
     "android": {
       "package": "com.robervalgneto.pwmgq2individual",
       "adaptiveIcon": {
-        "foregroundImage": "./assets/perfil.jpg",
+        "foregroundImage": "./assets/perfil.png",
         "backgroundColor": "#1e1e2f"
       }
     },
     "web": {
-      "favicon": "./assets/perfil.jpg"
+      "favicon": "./assets/perfil.png"
     },
     "extra": {
       "expo-router": {
