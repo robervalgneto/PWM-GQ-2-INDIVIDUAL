@@ -1,8 +1,0 @@
-{
-  "devDependencies": {
-    "expo-cli": "^53.0.0"
-  },
-  "dependencies": {
-    "expo": "^53.0.0"
-  }
-}
