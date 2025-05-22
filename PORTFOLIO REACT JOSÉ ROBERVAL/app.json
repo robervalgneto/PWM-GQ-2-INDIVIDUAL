@@ -1,0 +1,43 @@
+{
+  "expo": {
+    "owner": "robervalgneto",
+    "name": "PWM-GQ-2-INDIVIDUAL",
+    "slug": "pwm-gq-2-individual",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/perfil.jpg",
+    "userInterfaceStyle": "dark",
+    "splash": {
+      "image": "./assets/perfil.jpg",
+      "resizeMode": "contain",
+      "backgroundColor": "#1e1e2f"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "package": "com.robervalgneto.pwmgq2individual",
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/perfil.jpg",
+        "backgroundColor": "#1e1e2f"
+      }
+    },
+    "web": {
+      "favicon": "./assets/perfil.jpg"
+    },
+    "extra": {
+      "expo-router": {
+        "origin": "expo"
+      },
+      "eas": {
+        "projectId": "399627bd-887d-4ee2-a6c2-2273838fefb8"
+      }
+    }
+  }
+}
